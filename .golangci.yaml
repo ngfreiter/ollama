@@ -5,7 +5,7 @@ linters:
     - asasalint
     - bidichk
     - bodyclose
-    - containedctx
+    - containedctx   
     - contextcheck
     - exportloopref
     - gocheckcompilerdirectives
